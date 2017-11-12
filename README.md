@@ -1,4 +1,4 @@
-﻿# MakeFile_FirstMeet
+# MakeFile_FirstMeet
 gcc windows mingw32-make Makefile_FirstMeet
 usage：
 1. install MinGW in windows and set ENV_VARIABLE：{MinGW<D:\MinGW>;PATH<...;%MinGW%\bin>}
